@@ -55,7 +55,7 @@ Model yang digunakan adalah **XGBoost Regressor** yang telah dilatih dan disimpa
 
 ## 🛠️ Cara Menggunakan API
 
-- Endpoint: `/predict_pengangguran`
+- Endpoint: `/predict`
 - Method: `POST`
 - Format Input (JSON):
 
